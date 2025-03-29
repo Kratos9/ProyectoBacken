@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\services\\anunciosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|solutionrelative:proyectoclase\\services\\anunciosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\models\\anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|solutionrelative:proyectoclase\\models\\anuncios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|solutionrelative:proyectoclase\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|solutionrelative:proyectoclase\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\controllers\\anuncioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|solutionrelative:proyectoclase\\controllers\\anuncioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|solutionrelative:proyectoclase\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|solutionrelative:proyectoclase\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|solutionrelative:proyectoclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\services\\anunciosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|solutionrelative:proyectoclase\\services\\anunciosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\controllers\\anuncioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|solutionrelative:proyectoclase\\controllers\\anuncioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1E791B7-01AF-4AA9-B98E-3B03D30843CB}|Proyectoclase\\Proyectoclase.csproj|c:\\users\\ovied\\onedrive\\documentos\\programacion movil\\nueva carpeta (3)\\proyectoclase\\proyectoclase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 130,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,12 +63,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Proyectoclase\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Proyectoclase\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T21:59:15.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Proyectoclase\\Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Models\\Usuario.cs",
               "RelativeToolTip": "Proyectoclase\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T16:45:04.112Z",
               "EditorCaption": ""
@@ -77,27 +94,14 @@
               "RelativeDocumentMoniker": "Proyectoclase\\Services\\UsuarioService.cs",
               "ToolTip": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Services\\UsuarioService.cs",
               "RelativeToolTip": "Proyectoclase\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T16:35:34.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AnunciosService.cs",
-              "DocumentMoniker": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Services\\AnunciosService.cs",
-              "RelativeDocumentMoniker": "Proyectoclase\\Services\\AnunciosService.cs",
-              "ToolTip": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Services\\AnunciosService.cs*",
-              "RelativeToolTip": "Proyectoclase\\Services\\AnunciosService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T16:34:59.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Proyectoclase\\Data\\DataContext.cs",
@@ -105,12 +109,11 @@
               "RelativeToolTip": "Proyectoclase\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T16:34:11.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T16:34:11.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AnunciosController.cs",
               "DocumentMoniker": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Controllers\\AnunciosController.cs",
               "RelativeDocumentMoniker": "Proyectoclase\\Controllers\\AnunciosController.cs",
@@ -118,38 +121,49 @@
               "RelativeToolTip": "Proyectoclase\\Controllers\\AnunciosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:45:14.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T22:45:14.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Program.cs",
-              "RelativeDocumentMoniker": "Proyectoclase\\Program.cs",
-              "ToolTip": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Program.cs",
-              "RelativeToolTip": "Proyectoclase\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:32:47.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Anuncios.cs",
               "DocumentMoniker": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Models\\Anuncios.cs",
               "RelativeDocumentMoniker": "Proyectoclase\\Models\\Anuncios.cs",
-              "ToolTip": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Models\\Anuncios.cs*",
-              "RelativeToolTip": "Proyectoclase\\Models\\Anuncios.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Models\\Anuncios.cs",
+              "RelativeToolTip": "Proyectoclase\\Models\\Anuncios.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T00:23:27.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "AnunciosService.cs",
+              "DocumentMoniker": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Services\\AnunciosService.cs",
+              "RelativeDocumentMoniker": "Proyectoclase\\Services\\AnunciosService.cs",
+              "ToolTip": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Services\\AnunciosService.cs",
+              "RelativeToolTip": "Proyectoclase\\Services\\AnunciosService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:34:59.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Program.cs",
+              "RelativeDocumentMoniker": "Proyectoclase\\Program.cs",
+              "ToolTip": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\Program.cs",
+              "RelativeToolTip": "Proyectoclase\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:32:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ovied\\OneDrive\\Documentos\\Programacion Movil\\Nueva carpeta (3)\\Proyectoclase\\Proyectoclase\\appsettings.json",
               "RelativeDocumentMoniker": "Proyectoclase\\appsettings.json",
@@ -157,8 +171,7 @@
               "RelativeToolTip": "Proyectoclase\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-24T01:30:35.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T01:30:35.955Z"
             }
           ]
         }
